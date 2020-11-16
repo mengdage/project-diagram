@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T20:42:56.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="t5kLeMfZKRoh0TvzZyY1" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T21:14:41.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="eNIlCdyuHIiNgh6VutEf" version="13.9.7" type="github">
   <diagram id="wG8C5bi752hzfAdVxd5n" name="Page-1">
     <mxGraphModel dx="3492" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,9 +42,9 @@
             <mxPoint x="650.62" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A_VDeT5SQImMY4B4_ti9-13" value="&lt;b&gt;:HAS_TAG&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;dateCreated: 123456789&lt;/div&gt;&lt;div style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;dateModified: 123456789&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;creator: user1@unified.com&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="A_VDeT5SQImMY4B4_ti9-12" vertex="1" connectable="0">
+        <mxCell id="A_VDeT5SQImMY4B4_ti9-13" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;:HAS_TAG&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;dateCreated: 123456789&lt;/div&gt;&lt;div style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;dateModified: 123456789&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;creator: user1@unified.com&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="A_VDeT5SQImMY4B4_ti9-12" vertex="1" connectable="0">
           <mxGeometry x="0.2161" y="1" relative="1" as="geometry">
-            <mxPoint x="-67.17" y="124.14999999999999" as="offset" />
+            <mxPoint x="-88.08" y="96.80999999999999" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A_VDeT5SQImMY4B4_ti9-14" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="A_VDeT5SQImMY4B4_ti9-7" target="A_VDeT5SQImMY4B4_ti9-6" edge="1">
@@ -53,9 +53,9 @@
             <mxPoint x="690.62" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A_VDeT5SQImMY4B4_ti9-15" value="&lt;b&gt;:HAS_TAG&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;dateCreated: 123456789&lt;/div&gt;&lt;div style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;dateModified: 123456789&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;creator: user2@unified.com&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="A_VDeT5SQImMY4B4_ti9-14" vertex="1" connectable="0">
+        <mxCell id="A_VDeT5SQImMY4B4_ti9-15" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;:HAS_TAG&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;dateCreated: 123456789&lt;/div&gt;&lt;div style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;dateModified: 123456789&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;creator: user2@unified.com&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="A_VDeT5SQImMY4B4_ti9-14" vertex="1" connectable="0">
           <mxGeometry x="0.2161" y="1" relative="1" as="geometry">
-            <mxPoint x="-1.7500000000000018" y="141.1" as="offset" />
+            <mxPoint x="-1.7500000000000018" y="115.02" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A_VDeT5SQImMY4B4_ti9-24" value="TagLogs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -250,7 +250,7 @@
         <mxCell id="uwhE3XCytXDeYZ_hewNy-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uwhE3XCytXDeYZ_hewNy-51" target="uwhE3XCytXDeYZ_hewNy-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-51" value="Mutate ChangeLineItemTags(lineItemId: string!): [Tag]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-51" value="Mutate ChangeLineItemTags(lineItemId: string!): [Tag]" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="209.86" y="1334.5" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uwhE3XCytXDeYZ_hewNy-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uwhE3XCytXDeYZ_hewNy-52" target="uwhE3XCytXDeYZ_hewNy-51" edge="1">
@@ -259,13 +259,13 @@
         <mxCell id="uwhE3XCytXDeYZ_hewNy-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uwhE3XCytXDeYZ_hewNy-52" target="uwhE3XCytXDeYZ_hewNy-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-52" value="&lt;span style=&quot;text-align: left&quot;&gt;Display all tag options&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Check selected tag options&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Toggle tags&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Cancel / Update&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-52" value="&lt;span style=&quot;text-align: left; font-size: 14px;&quot;&gt;Display all tag options&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Check selected tag options&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Toggle tags&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Cancel / Update&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-225.14" y="1365" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uwhE3XCytXDeYZ_hewNy-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uwhE3XCytXDeYZ_hewNy-53" target="uwhE3XCytXDeYZ_hewNy-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-53" value="Query LineItemTagOptions(): [TagOption]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-53" value="Query LineItemTagOptions(): [TagOption]" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="209.86" y="1481" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uwhE3XCytXDeYZ_hewNy-57" value="PASSSelected Tags" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="uwhE3XCytXDeYZ_hewNy-58" edge="1">
@@ -273,7 +273,7 @@
             <mxPoint x="-110.13999999999999" y="1365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-115" value="PASS selected tags" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uwhE3XCytXDeYZ_hewNy-57" vertex="1" connectable="0">
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-115" value="PASS selected tags" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="uwhE3XCytXDeYZ_hewNy-57" vertex="1" connectable="0">
           <mxGeometry x="0.5314" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -281,13 +281,13 @@
         <mxCell id="uwhE3XCytXDeYZ_hewNy-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uwhE3XCytXDeYZ_hewNy-58" target="uwhE3XCytXDeYZ_hewNy-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-58" value="&lt;span style=&quot;text-align: left&quot;&gt;Display selected tags of a line item&lt;br&gt;&lt;/span&gt;Popup of more information" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-58" value="&lt;span style=&quot;text-align: left; font-size: 14px;&quot;&gt;Display selected tags of a line item&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;Popup of more information" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-225.14" y="1195" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uwhE3XCytXDeYZ_hewNy-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uwhE3XCytXDeYZ_hewNy-59" target="uwhE3XCytXDeYZ_hewNy-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-59" value="&lt;div&gt;line item tags&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;type LineItem {&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; tags: [Tag]&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-59" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;line item tags&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot; style=&quot;font-size: 14px;&quot;&gt;type LineItem {&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&amp;nbsp; tags: [Tag]&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="199.86" y="1205" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uwhE3XCytXDeYZ_hewNy-62" value="GraphQL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
@@ -296,19 +296,19 @@
         <mxCell id="oK9_VRbA4FvzWGwKTpVV-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uwhE3XCytXDeYZ_hewNy-66" target="oK9_VRbA4FvzWGwKTpVV-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-66" value="POST /line_items/:id/tags&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;add: [&quot;tag1&quot;, &quot;tag2&quot;]&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;delete: [&quot;tag3&quot;]&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="719.86" y="1327" width="360" height="75" as="geometry" />
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-66" value="POST /line_items/:id/tags&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;add: [&quot;tag1&quot;, &quot;tag2&quot;]&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;delete: [&quot;tag3&quot;]&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="719.86" y="1327" width="360" height="83" as="geometry" />
         </mxCell>
         <mxCell id="oK9_VRbA4FvzWGwKTpVV-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uwhE3XCytXDeYZ_hewNy-67" target="oK9_VRbA4FvzWGwKTpVV-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-67" value="GET /line_items/tags" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-67" value="GET /line_items/tags" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="719.86" y="1486" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oK9_VRbA4FvzWGwKTpVV-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uwhE3XCytXDeYZ_hewNy-68" target="oK9_VRbA4FvzWGwKTpVV-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-68" value="GET /line_items/:id/tags" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-68" value="GET /line_items/:id/tags" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="709.86" y="1214.5" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uwhE3XCytXDeYZ_hewNy-69" value="PMN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
@@ -332,13 +332,13 @@
             <mxPoint x="185" y="1304.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-79" value="name: Paused&lt;br&gt;color: #112233&lt;br&gt;description: Hello, Paused!&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;dateCreated: 123456789&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;dateModified: 123456789&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="565.62" y="150" width="160" height="90" as="geometry" />
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-79" value="id: Paused&lt;br&gt;name: Paused&lt;br style=&quot;font-size: 14px&quot;&gt;color: #112233&lt;br style=&quot;font-size: 14px&quot;&gt;description: Hello, Paused!&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;dateCreated: 123456789&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;dateModified: 123456789&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="569.86" y="140" width="214.38" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-80" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;id: Touchpoint2&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;name: Touchpoint2&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;color: #332211&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;description: Hello, Touchpoint2!&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;dateCreated: 123456789&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;dateModified: 123456789&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="310.62" y="140" width="180" height="90" as="geometry" />
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-80" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;id: Touchpoint2&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;name: Touchpoint2&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;color: #332211&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;description: Hello, Touchpoint2!&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;dateCreated: 123456789&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;dateModified: 123456789&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="230" y="140" width="260.62" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-81" value="Line Item&lt;br&gt;id: li-01" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-81" value="Line Item&lt;br&gt;id: li-02" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="720.14" y="555" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uwhE3XCytXDeYZ_hewNy-82" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="uwhE3XCytXDeYZ_hewNy-81" target="A_VDeT5SQImMY4B4_ti9-6" edge="1">
@@ -347,12 +347,12 @@
             <mxPoint x="500.62" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-83" value="&lt;b&gt;:HAS_TAG&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;dateCreated: 123456789&lt;/div&gt;&lt;div style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;dateModified: 123456789&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;creator: user1@unified.com&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uwhE3XCytXDeYZ_hewNy-82" vertex="1" connectable="0">
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-83" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;:HAS_TAG&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;dateCreated: 123456789&lt;/div&gt;&lt;div style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;dateModified: 123456789&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;creator: user1@unified.com&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="uwhE3XCytXDeYZ_hewNy-82" vertex="1" connectable="0">
           <mxGeometry x="0.2161" y="1" relative="1" as="geometry">
-            <mxPoint x="83.72999999999999" y="137.65" as="offset" />
+            <mxPoint x="113.25999999999999" y="100.81" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-84" value="&lt;div&gt;logs: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;dateCreated&quot;: 123456789,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;user&quot;: &quot;user1@unified.com&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;add&quot;: [&quot;tag1&quot;, &quot;tag2&quot;, &quot;ta3&quot;],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;delete&quot;: [&quot;tag4&quot;, &quot;tag4&quot;]&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;dateCreated&quot;: 123456789,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;user&quot;: &quot;user2@unified.com&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;add&quot;: [&quot;tag3&quot;],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;delete&quot;: [&quot;tag2&quot;, &quot;tag1&quot;]&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&quot;&lt;/div&gt;&lt;div&gt;]&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-84" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;logs: [&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &quot;{&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;dateCreated&quot;: 123456789,&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;user&quot;: &quot;user1@unified.com&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;add&quot;: [&quot;tag1&quot;, &quot;tag2&quot;, &quot;ta3&quot;],&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;delete&quot;: [&quot;tag4&quot;, &quot;tag4&quot;]&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; }&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &quot;{&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;dateCreated&quot;: 123456789,&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;user&quot;: &quot;user2@unified.com&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;add&quot;: [&quot;tag3&quot;],&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;delete&quot;: [&quot;tag2&quot;, &quot;tag1&quot;]&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; }&quot;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;]&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="170" y="650" width="215" height="280" as="geometry" />
         </mxCell>
         <mxCell id="uwhE3XCytXDeYZ_hewNy-85" value="TagLogs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -369,7 +369,7 @@
             <mxPoint x="-9.000000000000007" y="9.1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uwhE3XCytXDeYZ_hewNy-88" value="&lt;div&gt;logs: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;dateCreated&quot;: 123456789,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;user&quot;: &quot;user1@unified.com&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;add&quot;: [&quot;tag1&quot;, &quot;tag2&quot;, &quot;ta3&quot;],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;delete&quot;: [&quot;tag4&quot;, &quot;tag4&quot;]&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&quot;&lt;/div&gt;&lt;div&gt;]&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="uwhE3XCytXDeYZ_hewNy-88" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;logs: [&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &quot;{&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;dateCreated&quot;: 123456789,&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;user&quot;: &quot;user1@unified.com&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;add&quot;: [&quot;tag1&quot;, &quot;tag2&quot;, &quot;ta3&quot;],&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;delete&quot;: [&quot;tag4&quot;, &quot;tag4&quot;]&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; }&quot;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;]&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="815" y="710" width="225.14" height="180" as="geometry" />
         </mxCell>
         <mxCell id="uwhE3XCytXDeYZ_hewNy-92" value="1&lt;br&gt;Add A, B&lt;br&gt;DELETE C" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uwhE3XCytXDeYZ_hewNy-89" target="uwhE3XCytXDeYZ_hewNy-91" edge="1">
@@ -463,19 +463,19 @@
         <mxCell id="oK9_VRbA4FvzWGwKTpVV-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK9_VRbA4FvzWGwKTpVV-1" target="oK9_VRbA4FvzWGwKTpVV-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oK9_VRbA4FvzWGwKTpVV-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Display tag logs&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oK9_VRbA4FvzWGwKTpVV-1" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Display tag logs&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-225.14" y="1694.5" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oK9_VRbA4FvzWGwKTpVV-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK9_VRbA4FvzWGwKTpVV-2" target="oK9_VRbA4FvzWGwKTpVV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oK9_VRbA4FvzWGwKTpVV-2" value="Query LineItemTagLogs(lineItemId: string!): [Log]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oK9_VRbA4FvzWGwKTpVV-2" value="Query LineItemTagLogs(lineItemId: string!): [Log]" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="200" y="1704.5" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oK9_VRbA4FvzWGwKTpVV-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oK9_VRbA4FvzWGwKTpVV-3" target="oK9_VRbA4FvzWGwKTpVV-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oK9_VRbA4FvzWGwKTpVV-3" value="Get /line_items/:id/taglogs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oK9_VRbA4FvzWGwKTpVV-3" value="Get /line_items/:id/taglogs" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="719.86" y="1714.5" width="360" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="oK9_VRbA4FvzWGwKTpVV-17" value="" style="group" vertex="1" connectable="0" parent="1">
