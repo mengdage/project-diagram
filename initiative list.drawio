@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T16:52:39.484Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="aBBchff5gmnjbuI_gys5" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T20:03:42.576Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="9ZHNnG5-JeRI1ZkMSr62" version="14.3.0" type="github">
   <diagram id="q4Y93ODjy--8Mm2GtFs_" name="Page-1">
-    <mxGraphModel dx="1846" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,6 +224,9 @@
         </mxCell>
         <mxCell id="z8SnKcZ5ueu521hC86xs-74" value="/initiatives/:id/summary" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-187.5" y="1735" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LlhJczOY2o0Ux1-ZRbKj-1" value="&lt;br&gt;[&lt;br style=&quot;font-size: 16px&quot;&gt;&amp;nbsp; {initiative-01, friendly name},&lt;br style=&quot;font-size: 16px&quot;&gt;&amp;nbsp; {initiative-02, friendly name}&lt;br&gt;&amp;nbsp; ...&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="1770" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
